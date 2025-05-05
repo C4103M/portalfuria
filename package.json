@@ -4,6 +4,7 @@
   },
   "homepage": "https://c4103m.github.io/portalfuria",
   "scripts": {
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }
